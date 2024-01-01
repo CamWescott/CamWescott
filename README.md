@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Designer and Software Developer
 -----------------------------------
 
-I've been playing around with python and programming for 3 years. I started with HTML and just designing random things. Now trying to make a career so building a public profile and creating projects. Follow my journey.
+I've been using python for Data Analysis for 3 years. Proficient in Pandas, NumPy and MatPlotLib. I started playing with HTML and JavaScript, designing random things. Now trying to make a career and break into software development. Created this public profile to being creating projects to grow and showcase my skills. Follow my journey.
 
 * 🌍  I'm based in Vermont
 * ✉️  You can contact me at [cameron.hotchkiss@gmail.com](mailto:cameron.hotchkiss@gmail.com)
